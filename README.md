@@ -55,10 +55,42 @@
 ---
 
 ## 🐍 Snake Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nawartm/nawartm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+name: Generate Snake
 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # tous les jours à 00:00 UTC
+  workflow_dispatch:       # permet de lancer manuellement
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write          # autorise l'écriture sur le repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # Génération du SVG
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: nawartm
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Publication dans la branche "output"
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 ---
 
