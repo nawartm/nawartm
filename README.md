@@ -1,7 +1,7 @@
 # Salut 👋, je suis Nawar Toumi
 
 💡 **Passionné par la data, les LLMs et la création de smart data pipelines.**  
-Convaincu·e du rôle stratégique de la donnée dans l’innovation, j’ai poursuivi un **Master en Informatique et Télécommunications** où je me suis spécialisé·e en **Data Engineering**.  
+Convaincue du rôle stratégique de la donnée dans l’innovation, j’ai poursuivi un **Master en Informatique et Télécommunications** où je me suis spécialisée en **Data Engineering**.  
 Aujourd’hui en **formation DataOps**, je renforce mes compétences pour évoluer vers un rôle de **Data Engineer** et participer à la création de **solutions data performantes et innovantes**.  
 
 ---
@@ -75,4 +75,4 @@ Aujourd’hui en **formation DataOps**, je renforce mes compétences pour évolu
 
 ---
 
-⭐️ *"Data is the new oil, but AI is the engine that makes it valuable."*  
+⭐️ **Data is the new oil, but AI is the engine that makes it valuable.**  
