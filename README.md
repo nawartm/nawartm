@@ -40,26 +40,24 @@ Aujourd’hui en **formation DataOps**, je renforce mes compétences pour évolu
 - 🩺 **Skin Cancer Detection** – CNN embarqué sur Raspberry Pi pour détection cutanée.  
 
 ---
-
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nawartm&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawartm&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nawartm&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawartm&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" height="180" />
 </p>
-
 ---
-
-## 🔥 GitHub Streak  
+## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nawartm&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=nawartm&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
 ---
-
-## 🐍 Snake Graph  
+## 🐍 Snake Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nawartm/nawartm/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/nawartm/nawartm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
+
+
 
 ---
 ## 🌍 Languages  
