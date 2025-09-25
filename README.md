@@ -1,20 +1,19 @@
-# Salut 👋, je suis Nawar Toumi
+# Hi there 👋, I'm Nawar Toumi
 
-💡 **Passionné par la data, les LLMs et la création de smart data pipelines.**  
-Convaincue du rôle stratégique de la donnée dans l’innovation, j’ai poursuivi un **Master en Informatique et Télécommunications** où je me suis spécialisée en **Data Engineering**.  
-Aujourd’hui en **formation DataOps**, je renforce mes compétences pour évoluer vers un rôle de **Data Engineer** et participer à la création de **solutions data performantes et innovantes**.  
-
----
-
-## 🧑‍💻 À propos
-- 🔧 Data Engineering, MLOps & DataOps (ETL/ELT, orchestration, CI/CD, monitoring).  
-- 🚦 Conception d’un **Smart Data Pipeline pour Smart Cities** (Databricks, Delta Lake, Power BI, Random Forest) pour la gestion du trafic routier et la détection des congestions.   
-- 🤖 Intérêt pour les **data pipeline**, **LLMs**, **GenAI**.  
-- 🎯 Objectif : transformer la donnée en valeur métier mesurable.  
+💡 **Passionate about data, LLMs, and building smart data pipelines.**  
+➡️ Data Engineer turning data into intelligent and high-performance solutions.  
 
 ---
 
-## 🛠️ Stack technique
+## 🧑‍💻 About Me
+- 🔧 Data Engineering & DataOps (ETL/ELT, orchestration, CI/CD, monitoring).  
+- 🚦 Designed a **Smart Data Pipeline for Smart Cities** (Databricks, Delta Lake, Power BI, Random Forest) to manage traffic flow and detect congestion.  
+- 🤖 Keen interest in **data pipelines**, **Generative AI**.  
+- 🎯 Goal: transforming data into measurable business value.  
+
+---
+
+## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -33,37 +32,41 @@ Aujourd’hui en **formation DataOps**, je renforce mes compétences pour évolu
 ---
 
 ## 📌 Featured Projects  
-- 🧠 **AI Agents Automation (SMEs)** – Agents pour prise de rendez-vous, génération de documents, relance clients.  
-- 🚦 **Smart Data Pipeline (Smart Cities)** – Pipeline Big Data sur Databricks pour gestion du trafic routier.  
-- 📝 **Handwritten Digit Recognition** – CNN déployé sur Raspberry Pi (93% précision).  
-- 🎥 **Video Super-Resolution (ESRGAN)** – Amélioration de la résolution vidéo via IA générative.  
-- 🩺 **Skin Cancer Detection** – CNN embarqué sur Raspberry Pi pour détection cutanée.  
+- 🧠 **AI Agents Automation (SMEs)** – Built agents for appointment scheduling, document generation, and client follow-ups.  
+- 🚦 **Smart Data Pipeline (Smart Cities)** – Big Data pipeline on Databricks for urban traffic management.  
+- 📝 **Handwritten Digit Recognition** – CNN deployed on Raspberry Pi (93% accuracy).  
+- 🎥 **Video Super-Resolution (ESRGAN)** – Improved video quality using Generative AI.  
+- 🩺 **Skin Cancer Detection** – CNN on Raspberry Pi for real-time skin cancer detection.  
 
 ---
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nawartm&show_icons=true&theme=tokyonight&cache_seconds=3600" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawartm&layout=compact&theme=tokyonight&cache_seconds=3600" alt="Top Languages" height="180" />
 </p>
+
 ---
+
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=nawartm&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 ---
+
 ## 🐍 Snake Graph
 <p align="center">
   <img src="https://raw.githubusercontent.com/nawartm/nawartm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-
-
-
 ---
+
 ## 🌍 Languages  
-- 🇲🇦 **Arabe** : Natif  
-- 🇫🇷 **Français** : Courant  
-- 🇬🇧 **Anglais** : Intermédiaire
+- 🇲🇦 **Arabic**: Native  
+- 🇫🇷 **French**: Fluent  
+- 🇬🇧 **English**: Intermediate  
+
 ---
 
 ## 🌐 Connect with Me  
@@ -74,3 +77,4 @@ Aujourd’hui en **formation DataOps**, je renforce mes compétences pour évolu
 ---
 
 ⭐️ **Data is the new oil, but AI is the engine that makes it valuable.**  
+
