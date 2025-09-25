@@ -25,15 +25,14 @@
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects  
+- 🚦 **Smart Data Pipeline (Smart Cities)** – Big Data pipeline on Databricks for urban traffic management.
 - 🧠 **AI Agents Automation (SMEs)** – Built agents for appointment scheduling, document generation, and client follow-ups.  
-- 🚦 **Smart Data Pipeline (Smart Cities)** – Big Data pipeline on Databricks for urban traffic management.  
 - 📝 **Handwritten Digit Recognition** – CNN deployed on Raspberry Pi (93% accuracy).  
 - 🎥 **Video Super-Resolution (ESRGAN)** – Improved video quality using Generative AI.  
 - 🩺 **Skin Cancer Detection** – CNN on Raspberry Pi for real-time skin cancer detection.  
@@ -59,6 +58,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/nawartm/nawartm/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
