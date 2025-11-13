@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nawar Toumi
+# Hello word👋, I'm Nawar Toumi
 
 💡 **Passionate about data, LLMs, and building smart data pipelines.**  
 ➡️ Data Engineer turning data into intelligent and high-performance solutions.  
